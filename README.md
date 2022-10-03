@@ -1,2 +1,2 @@
-# Paper_Code
+# Paper Code
 Paper implementation
